@@ -1,0 +1,41 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  
+}
+
+.imgholder{
+	margin-bottom: 10px;
+	height: 350px;
+}
+
+.litbooks{
+	height:250px;
+	overflow: hidden;
+}
+
+.thumbtemp{
+
+	width:348px;
+	height: 430px;
+}
+
+.eholder{
+	margin-bottom: 10px;
+	height:250px;
+}
+
+.thump{
+	width:30px;
+	
+}
+
+.thown{
+	width:30px;
+
+}
+
+.Darker{
+	color: rgb(50, 176, 214);
+	font-style: italic;
+}
